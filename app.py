@@ -186,9 +186,9 @@ st.markdown("""
 # App Links Data - EDIT SESUAI APLIKASI KAMU
 apps = [
     {
-        "name": "📊 Dashboard Analytics",
-        "url": "https://yourapp1.streamlit.app",
-        "description": "Real-time data analytics dashboard"
+        "name": "🗜️ 100% Safe Auto Compress PDF and Image",
+        "url": "https://autocompress.streamlit.app/",
+        "description": "Safe Auto Compress"
     },
     {
         "name": "🪙 Gold Price and Forecast",
