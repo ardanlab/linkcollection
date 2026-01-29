@@ -192,7 +192,7 @@ apps = [
     },
     {
         "name": "🪙 Gold Price and Forecast",
-        "url": "https://yourapp2.streamlit.app",
+        "url": "https://golddigger.streamlit.app",
         "description": "Gold Price and Forecast"
     },
     {
