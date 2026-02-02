@@ -201,9 +201,9 @@ apps = [
         "description": "Track your favorite Crypto"
     },
     {
-        "name": "📈 Crypto Prediction V2 CG",
-        "url": "https://krippred2.streamlit.app",
-        "description": "Track your favorite Crypto"
+        "name": "📈 Saham",
+        "url": "https://ceksaham.streamlit.app",
+        "description": "Track your favorite Stocks"
     }
 ]
 
