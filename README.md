@@ -1,1 +1,1 @@
-# linkcollection
+# mylinkcollection
